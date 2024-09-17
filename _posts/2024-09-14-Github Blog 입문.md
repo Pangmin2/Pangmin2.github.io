@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Welcome to Jekyll!
-subtitle: A awesome static site generator.
+title: Github Blog 입문
+subtitle: 첫 Blog 게시물 작성기
 author: Jeffrey
 categories: jekyll
 banner:
